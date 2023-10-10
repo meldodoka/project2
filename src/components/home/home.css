@@ -1,0 +1,24 @@
+.countainer{
+    background-color: rgba(128, 128, 128, 0.253);
+    padding: 1.5rem 3rem;
+    border-radius: 25px;
+}
+.input{
+    padding: 0.9rem 2rem;
+    border-radius: 25px;
+
+}
+.pesan{
+    padding: 2rem 2rem;
+    border-radius: 25px;
+
+
+}
+.nanya{
+    font-style: italic;
+}
+.button:hover{
+    background-color: rgb(126, 126, 148);
+    color: rgb(255, 255, 255);
+    transition: 0.4s ;
+}
